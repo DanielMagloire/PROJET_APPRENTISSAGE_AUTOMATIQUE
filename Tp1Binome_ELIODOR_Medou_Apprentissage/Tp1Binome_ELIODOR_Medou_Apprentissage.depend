@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492199805 source:/home/gym/Documents/CodeBlocks/Tp1Binome_ELIODOR_Medou_Apprentissage/main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cmath>
+	<algorithm>
+	<vector>
+
